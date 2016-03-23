@@ -1,4 +1,4 @@
-##TODO: Add your presentations title
+##Sample Title
 
 
 ###Vertical Slide 1
